@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=220&amp;section=header&amp;text=Jonathan%20PHILIPPE&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Lead%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0%2C100:0D47A1&amp;height=220&amp;section=header&amp;text=Jonathan%20PHILIPPE&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Lead%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0%2C100:0D47A1&amp;height=220&amp;section=header&amp;text=Jonathan%20PHILIPPE&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Lead%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=220&amp;section=header&amp;text=Jonathan%20PHILIPPE&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Lead%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=220&amp;section=header&amp;text=Jonathan%20PHILIPPE&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Lead%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
   </picture>
   
   <picture>
@@ -20,9 +20,9 @@
   <div>&nbsp;</div>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
 
   <div>&nbsp;</div>
@@ -61,9 +61,9 @@ end
   <div>&nbsp;</div>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
   
   <div>&nbsp;</div>
@@ -87,9 +87,9 @@ end
   <div>&nbsp;</div>
   
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
 </div>
 
@@ -116,9 +116,9 @@ end
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
 
   <div>&nbsp;</div>
@@ -130,8 +130,8 @@ end
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
     
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:1565C0&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=120&section=footer&amp;reversal=true" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A%2C100:0F1B4D&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A%2C100:0F1B4D&height=120&section=footer&amp;reversal=true" width="100%"/>
   </picture>
 </div>
