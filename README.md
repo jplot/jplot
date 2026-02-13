@@ -27,7 +27,7 @@
 
   <div>&nbsp;</div>
   
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com/jplot/jplot/main/assets/photo.jpg&w=180&h=180&fit=cover&mask=circle" align="left"/>
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/jplot/jplot/main/assets/photo.jpg&w=180&h=180&fit=cover&mask=circle" align="left"/>
 </div>
 
 ```ruby
