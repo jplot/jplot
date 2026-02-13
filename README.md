@@ -42,7 +42,7 @@ class Developer < Human
       frontend:  %w[TypeScript Vue.js React],
       mobile:    %w[Flutter Dart],
       devops:    %w[Docker Git CI/CD],
-      domains:   %w[Fintech Legaltech Wealthtech]
+      domains:   %w[Fintech Legaltech Assurtech Wealthtech]
     }
   end
 
@@ -106,6 +106,7 @@ end
   │
   ├── 🏦 Fintech startup — payment systems & compliance
   ├── ⚖️ Legaltech startup — legal automation
+  ├── 🛡️ Assurtech — insurance solutions
   │
 2023 ─── ⚡ Joined Fluence
   │
