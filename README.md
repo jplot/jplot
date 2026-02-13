@@ -111,10 +111,17 @@ end
 <div align="center">
   <br/>
 
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Find%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+  </picture>
+
+  <br/><br/>
+
   <a href="https://www.linkedin.com/in/jpucelle"><img src="https://img.shields.io/badge/LinkedIn-jpucelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/jplot_"><img src="https://img.shields.io/badge/𝕏-@jplot__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/_jplot/"><img src="https://img.shields.io/badge/Instagram-_jplot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
   
