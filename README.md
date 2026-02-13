@@ -11,6 +11,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=1E3A8A&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=40&amp;lines=%F0%9F%92%8E+Ruby+on+Rails+%7C+10%2B+years+crafting+the+web" width="100%"/>
   </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=4FC3F7&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Engineering+scalable+software+systems;Architecting+robust+backend+solutions;Solving+complex+business+problems;Passionate+about+Clean+Architecture"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=0D47A1&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Engineering+scalable+software+systems;Architecting+robust+backend+solutions;Solving+complex+business+problems;Passionate+about+Clean+Architecture"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D47A1&center=true&vCenter=true&width=450&lines=lines=Engineering+scalable+software+systems;Architecting+robust+backend+solutions;Solving+complex+business+problems;Passionate+about+Clean+Architecture" alt="Typing SVG"/>
+  </picture>
+
   <div>&nbsp;</div>
 
   <picture>
@@ -117,9 +123,9 @@ end
 
   <div>&nbsp;</div>
 
-  <a href="https://www.linkedin.com/in/jpucelle"><img src="https://img.shields.io/badge/LinkedIn-jpucelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/jplot_"><img src="https://img.shields.io/badge/𝕏-@jplot__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_jplot/"><img src="https://img.shields.io/badge/Instagram-_jplot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jpucelle"><img src="https://img.shields.io/badge/%20-jphilippe-0A66C2?style=for-the-badge&logo=linkerd&logoColor=white"/></a>
+  <a href="https://x.com/jplot_"><img src="https://img.shields.io/badge/%20-@jplot__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_jplot/"><img src="https://img.shields.io/badge/%20-_jplot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
     
