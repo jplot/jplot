@@ -5,10 +5,10 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%8E+Ruby+on+Rails+%7C+10%2B+years+crafting+the+web;%E2%9A%A1+From+Fintech+to+Legaltech+to+Energytech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%92%8E+Ruby+on+Rails+%7C+10%2B+years+crafting+the+web" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/jpucelle"><img src="https://img.shields.io/badge/LinkedIn-jpucelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -59,7 +59,7 @@
   │
 2023 ─── ⚡ Joined Fluence
   │
-  └── 🔋 Building the future of energy markets
+  └── 💼 Building wealth management solutions
 ```
 
 <div align="center">
@@ -67,10 +67,6 @@
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jplot&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
