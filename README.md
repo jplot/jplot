@@ -127,8 +127,12 @@ end
   <a href="https://x.com/jplot_"><img src="https://img.shields.io/badge/%20-@jplot__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/_jplot/"><img src="https://img.shields.io/badge/%20-_jplot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
-    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;quote=Simplicity%20is%20the%20ultimate%20sophistication&amp;author=Leonardo%20da%20Vinci&amp;backgroundColor=0D47A1&amp;symbolColor=4FC3F7&amp;quoteColor=ffffff&amp;authorColor=ffffff"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;quote=Simplicity%20is%20the%20ultimate%20sophistication&amp;author=Leonardo%20da%20Vinci&amp;backgroundColor=ffffff&amp;symbolColor=0D47A1&amp;quoteColor=000000&amp;authorColor=000000"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;quote=Simplicity%20is%20the%20ultimate%20sophistication&amp;author=Leonardo%20da%20Vinci&amp;backgroundColor=ffffff&amp;symbolColor=0D47A1&amp;quoteColor=000000&amp;authorColor=000000"/>
+  </picture>
+
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:1565C0&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
