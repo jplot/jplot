@@ -18,8 +18,10 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=TechAbout%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
+
+  <br/><br/>
   
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/1191329?v=4&w=180&h=180&fit=cover&mask=circle" align="left"/>
 </div>
@@ -52,7 +54,7 @@ end
 ```
 
 <div align="center">
-  <br/>
+  <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
@@ -123,5 +125,4 @@ end
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=120&section=footer&amp;reversal=true" width="100%"/>
   </picture>
-  
 </div>
