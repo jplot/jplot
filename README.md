@@ -14,9 +14,9 @@
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Tech%20Arsenal&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
   
   <br/><br/>
@@ -40,9 +40,9 @@
   <br/><br/>
   
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4FC3F7%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0%2C100:0D47A1&amp;height=45&amp;text=Journey&amp;fontSize=24&amp;fontColor=ffffff&amp;fontAlignY=55" width="100%"/>
   </picture>
 
 ```
@@ -75,6 +75,10 @@
   
   <br/>
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:152d6b,100:0a1628&height=120&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:1565C0&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D47A1%2C100:4FC3F7&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=120&section=footer&amp;reversal=true" width="100%"/>
+  </picture>
 
 </div>
