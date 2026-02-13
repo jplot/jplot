@@ -27,21 +27,6 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
-
-<br/>
-
-Senior Backend Developer with 10+ years of experience building web applications. Started with PHP freelance, then fell in love with **Ruby on Rails** and never looked back.
-
-I've shipped products in **Fintech**, **Legaltech**, and now **Energytech** at [Fluence](https://github.com/fluence-eu), where I help build the future of energy markets.
-
-🎓 &nbsp; Alumni [École 42](https://42.fr) Paris  
-💎 &nbsp; Ruby & Rails enthusiast  
-⚡ &nbsp; Currently building at **Fluence**  
-📍 &nbsp; Paris, France
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=Tech%20Arsenal&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
@@ -58,18 +43,6 @@ I've shipped products in **Fintech**, **Legaltech**, and now **Energytech** at [
 **`Mobile & DevOps`**
 
 <img src="https://skillicons.dev/icons?i=flutter,docker,git,github&theme=dark" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<br/>
-
-<img width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=jplot&theme=tokyonight&hide_border=true&background=0D1117&ring=1E3A8A&fire=3B82F6&currStreakLabel=1E3A8A&sideLabels=C9D1D9&dates=555555" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jplot&bg_color=0d1117&color=1e3a8a&line=3b82f6&point=c9d1d9&area_color=1e3a8a&area=true&hide_border=true" />
 
 <br/>
 
