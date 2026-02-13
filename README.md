@@ -1,8 +1,113 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=4EB3F7&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div align="center">
 
-[![User Stats](https://github-readme-stats.vercel.app/api?username=jplot&show_icons=true&count_private=true)](https://github.com/jplot)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jplot&layout=compact)](https://github.com/jplot)
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:152d6b,100:0a1628&height=220&section=header&text=Jonathan%20PHILIPPE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Developer%20%E2%80%A2%20Paris%2C%20France&descSize=16&descAlignY=55&descAlign=50"/>
 
-![ta mere](https://skillicons.dev/icons?i=ruby,rails,ts,vue,react,flutter,postgres,redis,git,docker)
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%8E+Ruby+on+Rails+%7C+10%2B+years+crafting+the+web;%E2%9A%A1+From+Fintech+to+Legaltech+to+Energytech" alt="Typing SVG" />
+</a>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jplot.page.id&format=true&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/jpucelle"><img src="https://img.shields.io/badge/LinkedIn-jpucelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/jplot_"><img src="https://img.shields.io/badge/𝕏-@jplot__-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/_jplot/"><img src="https://img.shields.io/badge/Instagram-_jplot-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
+<br/>
+
+Senior Backend Developer with 10+ years of experience building web applications. Started with PHP freelance, then fell in love with **Ruby on Rails** and never looked back.
+
+I've shipped products in **Fintech**, **Legaltech**, and now **Energytech** at [Fluence](https://github.com/fluence-eu), where I help build the future of energy markets.
+
+🎓 &nbsp; Alumni [École 42](https://42.fr) Paris  
+💎 &nbsp; Ruby & Rails enthusiast  
+⚡ &nbsp; Currently building at **Fluence**  
+📍 &nbsp; Paris, France
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=Tech%20Arsenal&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<br/>
+
+**`Backend`**
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis&theme=dark" />
+
+**`Frontend`**
+
+<img src="https://skillicons.dev/icons?i=ts,vue,react&theme=dark" />
+
+**`Mobile & DevOps`**
+
+<img src="https://skillicons.dev/icons?i=flutter,docker,git,github&theme=dark" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<br/>
+
+<img width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=jplot&theme=tokyonight&hide_border=true&background=0D1117&ring=1E3A8A&fire=3B82F6&currStreakLabel=1E3A8A&sideLabels=C9D1D9&dates=555555" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jplot&bg_color=0d1117&color=1e3a8a&line=3b82f6&point=c9d1d9&area_color=1e3a8a&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:152d6b,100:0a1628&height=45&text=Journey&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+</div>
+
+```
+2008 ─── 💻 Started web dev (PHP freelance)
+  │
+  ├── 🌐 Built websites, blogs, e-commerce
+  │
+2014 ─── 🎓 Joined École 42
+  │
+  ├── 🧠 Low-level C, algorithms, peer-to-peer learning
+  │
+2015 ─── 💎 Discovered Ruby on Rails — never looked back
+  │
+  ├── 🏦 Fintech startup — payment systems & compliance
+  ├── ⚖️ Legaltech startup — legal automation
+  │
+2023 ─── ⚡ Joined Fluence
+  │
+  └── 🔋 Building the future of energy markets
+```
+
+<div align="center">
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication&author=Leonardo%20da%20Vinci" width="70%"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jplot&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:152d6b,100:0a1628&height=120&section=footer"/>
+
+</div>
